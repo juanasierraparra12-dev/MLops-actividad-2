@@ -1,0 +1,21 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Pruebas
+.pytest_cache/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Variables de entorno
+.env
